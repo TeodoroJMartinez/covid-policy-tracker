@@ -1,8 +1,16 @@
 ## Oxford Covid-19 Government Response Tracker (OxCGRT)
 
+<br/>
+<br/>
+<br/>
+
 | Final OxCGRT dataset available, June 2023 |
 | --- |
 | *This repository contains old data*. The OxCGRT stopped publishing real-time updates at the end of 2022. A final version of the OxCGRT dataset is available at https://github.com/OxCGRT/covid-policy-dataset<br/>We recommend people only continue to use this OxCGRT/covid-policy-tracker repository if they need to access old or historical versions of the OxCGRT dataset. |
+
+<br/>
+<br/>
+<br/>
 
 The Oxford Covid-19 Government Response Tracker (OxCGRT) collected information on which pandemic response measures were enacted by governments, and when. This is a project from the [Blavatnik School of Government](www.bsg.ox.ac.uk). More information on the OxCGRT is available on the school's website: https://www.bsg.ox.ac.uk/covidtracker. This README contains information about using the database.
 
